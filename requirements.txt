@@ -1,0 +1,8 @@
+####################
+#Basic packages
+numpy
+jupyter
+matplotlib
+pandas
+scikit-learn
+#####################
