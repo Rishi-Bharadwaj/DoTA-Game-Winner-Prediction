@@ -1,4 +1,4 @@
-Predicting the likelihood of winning in DoTA 2
+Predicting the Likelihood of Winning in DoTA 2
 
 Dota 2, short for Defense of the Ancients 2, is a multiplayer online battle arena (MOBA) game developed and published by Valve Corporation.
 It stands as one of the most popular and enduring titles in the genre, known for its complex gameplay mechanics, strategic depth, and a massive, passionate player community.
