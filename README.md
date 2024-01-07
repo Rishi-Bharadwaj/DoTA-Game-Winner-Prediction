@@ -10,7 +10,4 @@ Hero selection in Dota 2 is a critical aspect that significantly influences the 
 
 ## Prjoect Details:
 In this project I attempted to predict the winners of a match of dota based on their hero selections, i.e which playable characters they chose in the match. This is a binary classification problem. I tried and compared different classification models like Logistic Regression, Naive Bayes and Random Forest Classifiers. 
-
-s
-
 The dataset I used is present in this repository and was sourced from [here](https://archive.ics.uci.edu/dataset/367/dota2+games+results).
